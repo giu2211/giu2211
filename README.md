@@ -5,7 +5,7 @@ Benvenuta/o nel mio profilo GitHub!
 # Su di me
 * 🎓 Sono una laureata triennale in **Matematica**, attualmente sto frequentando l'ultimo anno della magistrale in **Artificial Intelligence & Robotics**.
 * 🧠 Principalmente il mio interesse è verso il mondo dell'AI, Generative AI, Computer Vision, Deep Learning, Reinforcement Learning. Durante il percorso di studi ho sostenuto anche diversi corsi di Robotica, tra cui il più appassionante è stato quello di Medical Robotics.
-* 📁 Di seguito i principali progetti svolti insieme a dei colleghi di università.
+* 📁 Di seguito pinnati ci sono i principali progetti su cui ho lavorato insieme ad alcuni dei miei colleghi universitari.
 
 
 
