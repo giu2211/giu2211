@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 # About me
 * 🎓 I hold a Bachelor's degree in **Mathematics**, and I am currently in the final year of my Master's degree in **Artificial Intelligence & Robotics**.
-* 🧠 My main interests lie in the world of AI, Generative AI, Computer Vision, Deep Learning, and Reinforcement Learning. During my studies, I also took several Robotics courses, among which the most fascinating were Autonomous and Mobile Robotics and Medical Robotics, where my team was selected to join Rome Maker Faire 2026 as makers. [!MF2026 exhibitor catalog](https://makerfairerome.eu/edizioni/edizione-2026/espositori/?bb=779&_gl=1*1ksxx4o*_up*MQ..*_ga*NDY1MTg0MzI4LjE3OTQ4MzczMDM.*_ga_FHHYFL6JNG*czE3OTQ4MzczMDIkbzEkZzAkdDE3OTQ4MzczMDIkajYwJGwwJGgw )]
+* 🧠 My main interests lie in the world of AI, Generative AI, Computer Vision, Deep Learning, and Reinforcement Learning. During my studies, I also took several Robotics courses, among which the most fascinating were Autonomous and Mobile Robotics and Medical Robotics, where my team was selected to join Rome Maker Faire 2026 as makers. [MF2026 exhibitor catalog](https://makerfairerome.eu/edizioni/edizione-2026/espositori/?bb=779&_gl=1*1ksxx4o*_up*MQ..*_ga*NDY1MTg0MzI4LjE3OTQ4MzczMDM.*_ga_FHHYFL6JNG*czE3OTQ4MzczMDIkbzEkZzAkdDE3OTQ4MzczMDIkajYwJGwwJGgw )
 * 📁 Highlighted below are the main projects I have worked on, both in teams and solo. 
 
 
